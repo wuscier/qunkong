@@ -1,0 +1,10 @@
+C:\workspace\WhatApps\FaceBook\Xzy.EmbeddedApp.Model\bin\Release\Xzy.EmbeddedApp.Model.dll
+C:\workspace\WhatApps\FaceBook\Xzy.EmbeddedApp.Model\bin\Release\Xzy.EmbeddedApp.Model.pdb
+C:\workspace\WhatApps\FaceBook\Xzy.EmbeddedApp.Model\obj\Release\Xzy.EmbeddedApp.Model.csproj.CoreCompileInputs.cache
+C:\workspace\WhatApps\FaceBook\Xzy.EmbeddedApp.Model\obj\Release\Xzy.EmbeddedApp.Model.dll
+C:\workspace\WhatApps\FaceBook\Xzy.EmbeddedApp.Model\obj\Release\Xzy.EmbeddedApp.Model.pdb
+E:\kangantu\WhatApps\FaceBook\Xzy.EmbeddedApp.Model\bin\Release\Xzy.EmbeddedApp.Model.dll
+E:\kangantu\WhatApps\FaceBook\Xzy.EmbeddedApp.Model\bin\Release\Xzy.EmbeddedApp.Model.pdb
+E:\kangantu\WhatApps\FaceBook\Xzy.EmbeddedApp.Model\obj\Release\Xzy.EmbeddedApp.Model.csproj.CoreCompileInputs.cache
+E:\kangantu\WhatApps\FaceBook\Xzy.EmbeddedApp.Model\obj\Release\Xzy.EmbeddedApp.Model.dll
+E:\kangantu\WhatApps\FaceBook\Xzy.EmbeddedApp.Model\obj\Release\Xzy.EmbeddedApp.Model.pdb

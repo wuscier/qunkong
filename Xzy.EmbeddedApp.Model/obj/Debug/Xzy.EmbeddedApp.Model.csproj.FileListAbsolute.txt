@@ -1,0 +1,6 @@
+C:\workspace\WhatApps\FaceBook\Xzy.EmbeddedApp.Model\bin\Debug\Xzy.EmbeddedApp.Model.dll
+C:\workspace\WhatApps\FaceBook\Xzy.EmbeddedApp.Model\bin\Debug\Xzy.EmbeddedApp.Model.pdb
+C:\workspace\WhatApps\FaceBook\Xzy.EmbeddedApp.Model\obj\Debug\Xzy.EmbeddedApp.Model.csprojAssemblyReference.cache
+C:\workspace\WhatApps\FaceBook\Xzy.EmbeddedApp.Model\obj\Debug\Xzy.EmbeddedApp.Model.csproj.CoreCompileInputs.cache
+C:\workspace\WhatApps\FaceBook\Xzy.EmbeddedApp.Model\obj\Debug\Xzy.EmbeddedApp.Model.dll
+C:\workspace\WhatApps\FaceBook\Xzy.EmbeddedApp.Model\obj\Debug\Xzy.EmbeddedApp.Model.pdb
